@@ -1,4 +1,4 @@
-# SCISET implementation details
+# SCISE implementation details
 
 # No Secrets!
 
