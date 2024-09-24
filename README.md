@@ -6,4 +6,4 @@ Do not put any passwords or other private details in here!
 
 This is an area for writeups of internal implementation details at the Stanford Center for Image Systems Engineering that are particuliar to our infrastructure.  Some details may prove instructive to others setting up their own systems.   Others not so much.
 
-Most of the content is in the attached wiki.  
+Most of the content is in the attached [wiki pages](https://github.com/ISET/scise_details/wiki)  
